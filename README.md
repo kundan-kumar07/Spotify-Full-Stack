@@ -6,7 +6,9 @@ A fullstack Spotify-inspired music streaming platform with an integrated **Admin
 
 ## 🌐 Live Demo
 
-👉 [Live Site](https://your-deployment-link.com)
+👉 [Live Site](https://spotify-frontend-oq0o.onrender.com/)
+👉 [Live Site(Admin)](https://spotify-admin-wbyl.onrender.com/)
+
 
 ---
 
